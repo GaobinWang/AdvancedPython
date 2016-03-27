@@ -11,3 +11,4 @@ Python进阶
 * Python爬虫
 * Python与数据库
 * Python相关库学习：sklearn等
+* 其他
