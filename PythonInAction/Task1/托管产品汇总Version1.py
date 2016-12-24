@@ -88,6 +88,8 @@ def beta(netvalue1, netvalue2):
 w.start()
 HS300 = w.wsd("000300.SH","close",'20160101','20161223')
 HS300Data = HS300.Data
+HS300Times = HS300.Times
+
 HS300Data = HS300Data[0]
 #HS300Data = pd.DataFrame(HS300.Data)
 
